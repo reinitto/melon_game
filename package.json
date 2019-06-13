@@ -3,7 +3,7 @@
   "version": "2.1.3",
   "main": "main.js",
   "scripts": {
-    "start": "grunt serve:build"
+    "start": "node main.js"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
