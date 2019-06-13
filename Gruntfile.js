@@ -197,7 +197,7 @@ module.exports = function(grunt) {
     'resources',
     'concat',
     'replace',
-    'uglify',
+    // 'uglify',
     'copy',
     'processhtml',
     'clean:app'
